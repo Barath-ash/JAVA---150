@@ -1,4 +1,5 @@
-lass neigh{
+class neigh{
+   public static void main(String[] args) {
     int num=129345;
     String str =String.valueOf(num);
     boolean flag = true;
@@ -12,4 +13,5 @@ lass neigh{
       }
     }
     System.out.println(flag);
+   }
 }

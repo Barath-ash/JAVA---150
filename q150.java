@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 class q150{
     public static void main(String []args){
         int arr[] = {2, 4, 1, 3};

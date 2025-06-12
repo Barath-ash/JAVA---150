@@ -2,7 +2,7 @@ import os
 import subprocess
 
 # Define the Git repository details
-git_repo_path = r"E:\JAVA\GITHUB JAVA\LEETCODE"
+git_repo_path = r"E:\JAVA\GITHUB JAVA\java-150"
 git_branch = "main"
 commit_message = "Practice questions"
 
