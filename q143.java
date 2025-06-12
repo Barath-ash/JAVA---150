@@ -12,8 +12,9 @@ public class q143 {
             notsta++;
         }
 
-        System.out.println((notsta*10)+stab);
+       
     }
+    System.out.println((notsta*10)+stab);
  }   
 
 
